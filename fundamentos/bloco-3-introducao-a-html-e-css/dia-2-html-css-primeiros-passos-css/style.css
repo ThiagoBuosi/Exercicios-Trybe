@@ -1,0 +1,15 @@
+h1 {
+    font-size: 65px
+}
+
+#cor {
+    color: orange;
+}
+
+#lista {
+    background-color: red;
+}
+
+.cor-de-fundo {
+    background-color: green;
+}
