@@ -1,3 +1,5 @@
+/* Exercícios Variáveis */
+
 const myName = "Thiago";
 const birthCity = "Vargem Grande do Sul";
 let birthYear = 1999;
