@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: rgb(93, 96, 99);
+    background-color: rgb(234, 237, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1,3;
+}
+
+/* Estilizando Header */
+
+.p-header{
+    font-size: 20px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+.header-pagina{
+    text-align: center;
+    background-color: #f6f7f8;
+    border: 1px solid #d6d9dc;
+    border-radius: 3px;
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    font-size: 20px;
+}
+
+/* Estilizando Formulário */
+
+main{
+    width: 85%;
+    background-color: #f6f7f8;
+    margin: 40px auto;
+}
+
+/* Estilizando parte do Nome */
+
+.nome{
+    font-size: 18px;
+    padding: 5px;
+    background-color: #f6f7f8;
+    width: 80%;
+    border-radius: 3px;
+}
+.input-text{
+    padding: 3px;
+}
+
+/* Estilizando parte do Email */
+
+.email{
+    font-size: 18px;
+    padding: 5px;
+    background-color: #f6f7f8;
+    width: 80%;
+    border-radius: 3px;
+}
+
+.input-email{
+    padding: 3px;
+}
+ 
+/* Estilizando parte do radio/opções */
+
+.opcoes{
+    font-size: 18px;
+}
+
+/* Estilizando parte da textArea */
+
+.label-textArea{
+    font-size: 18px;
+}
+
+textarea{
+    width: 95%;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+/* Estilizando a parte da data */
+
+.label-data{
+    font-size: 18px;
+}
+
+.input-data{
+    padding: 3px;
+}
+
+/* Estilizando o checkBox */
+
+.checkBox{
+    font-size: 18px;
+}
+
+/* Estilizando Botão */
+
+button{
+    padding: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
