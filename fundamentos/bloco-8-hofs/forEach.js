@@ -24,3 +24,5 @@ const pizzas = [
 ];
 
 pizzas.forEach( (pizza) => console.log(`A pizza de ${pizza.flavor} custa ${pizza.price}`));
+
+// novos 
